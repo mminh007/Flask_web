@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset=""utf-8>
+        <meta name ="keywords" content="studying,html,css,js" /> 
+        <meta name ="description" content="Day la trang web demo" />
+        <meta http-equiv="refresh" content="1800" /> 
+        <title>Trang Chu</title>
+        <link href = "{{ url_for('static', filename='css/style.css') }}" rel="stylesheet"/> 
+    </head>
+    <body>
+        <h1 class="subject"> TRANG CHU</h1>
+
+        <ul>
+            <li><a href="#">ALL REFERENCES</a></li>
+            {% for c in categories %}
+            <li><a href="/conferences?category_id={{ c.id }}">{{ c.name }}</a></li>
+            {% endfor %}
+        </ul>
+
+        
+    </body>
+</html>

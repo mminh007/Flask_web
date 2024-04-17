@@ -1,0 +1,695 @@
+[
+    {
+        "Conference": "SDM",
+        "City_Country": "Houston, Texas, USA",
+        "Date": "18-20 April 2023",
+        "Notification": "late December 2023",
+        "Final_version": "",
+        "Early_register": "18 March 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "RECOMB",
+        "City_Country": "Boston, Massachusetts, USA",
+        "Date": "29 April - 2 May 2024",
+        "Notification": "22 December 2023",
+        "Final_version": "26 January 2024",
+        "Early_register": "15 March 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "AAMAS",
+        "City_Country": "Auckland, New Zealand",
+        "Date": "6-10 May 2024",
+        "Notification": "20 December 2023",
+        "Final_version": "8 February 2024",
+        "Early_register": "11 April 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "TAMC",
+        "City_Country": "Hong Kong, SAR China",
+        "Date": "13-15 May 2024",
+        "Notification": "1 February 2024",
+        "Final_version": "",
+        "Early_register": "31 March 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "OLA",
+        "City_Country": "Dubrovnik, Croatia",
+        "Date": "13-15 May 2024",
+        "Notification": "9 February 2024",
+        "Final_version": "",
+        "Early_register": "31 March 2024",
+        "Remarks": "early registration obligatory for authors"
+    },
+    {
+        "Conference": "FLOPS",
+        "City_Country": "Kumamoto, Japan",
+        "Date": "15-17 May 2024",
+        "Notification": "26 January 2024",
+        "Final_version": "21 February 2024",
+        "Early_register": "30 April 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "ISCO",
+        "City_Country": "Tenerife, Canary Islands, Spain",
+        "Date": "22-24 May 2024",
+        "Notification": "15 March 2024",
+        "Final_version": "15 April 2024",
+        "Early_register": "31 March 2024",
+        "Remarks": "school 20-21 May 2024"
+    },
+    {
+        "Conference": "EUROCRYPT\n ",
+        "City_Country": "Zurich, Switzerland",
+        "Date": "26-30 May 2024",
+        "Notification": "8 December 2023\n31 January 2024",
+        "Final_version": "",
+        "Early_register": "26 April 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "LPAR",
+        "City_Country": "Mauritius",
+        "Date": "26-31 May 2024",
+        "Notification": "1 April 2024",
+        "Final_version": "5 April 2024",
+        "Early_register": "16 May 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "SIROCCO",
+        "City_Country": "Vietri sul Mare, Salerno, Italy",
+        "Date": "27-29 May 2024",
+        "Notification": "28 January 2024",
+        "Final_version": "",
+        "Early_register": "31 March 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "CPAIOR",
+        "City_Country": "Uppsala, Sweden",
+        "Date": "28-31 May 2024",
+        "Notification": "1 February 2024",
+        "Final_version": "",
+        "Early_register": "15 April 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "ICAPS",
+        "City_Country": "Banf, Alberta, Canada",
+        "Date": "1-5 June 2024",
+        "Notification": "12 February 2024",
+        "Final_version": "",
+        "Early_register": "31 March 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "HALG",
+        "City_Country": "Warsaw, Poland",
+        "Date": "3-5 June 2024",
+        "Notification": "",
+        "Final_version": "25 May 2024",
+        "Early_register": "1 May 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "NFM",
+        "City_Country": "Moffett Field, California, USA",
+        "Date": "4-6 June 2024",
+        "Notification": "16 February 2024",
+        "Final_version": "15 March 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "FUN",
+        "City_Country": "La Maddalena Island, Sardinia, Italy",
+        "Date": "4-8 June 2024",
+        "Notification": "2 April 2024",
+        "Final_version": "15 April 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "SAND",
+        "City_Country": "Patras, Greece",
+        "Date": "5-7 June 2024",
+        "Notification": "20 March 2024",
+        "Final_version": "2 April 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "SoCS",
+        "City_Country": "Kananaskis, Alberta, Canada",
+        "Date": "6-8 June 2024",
+        "Notification": "26 March 2024",
+        "Final_version": "10 April 2024",
+        "Early_register": "5 April 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "PODS",
+        "City_Country": "Santiago, Chile",
+        "Date": "9-15 June 2024",
+        "Notification": "4 March 2024",
+        "Final_version": "",
+        "Early_register": "30 April 2024",
+        "Remarks": "co-located with SIGMOD"
+    },
+    {
+        "Conference": "SIGMOD",
+        "City_Country": "Santiago, Chile",
+        "Date": "9-15 June 2024",
+        "Notification": "23 February 2024",
+        "Final_version": "",
+        "Early_register": "30 April 2024",
+        "Remarks": "co-located with PODS"
+    },
+    {
+        "Conference": "SCAI",
+        "City_Country": "J\u00f6nk\u00f6ping, Sweden",
+        "Date": "10-11 June 2024",
+        "Notification": "28 April 2024",
+        "Final_version": "12 May 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "WoLLIC",
+        "City_Country": "Bern, Switzerland",
+        "Date": "10-13 June 2024",
+        "Notification": "15 April 2024",
+        "Final_version": "29 April 2024",
+        "Early_register": "10 May 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "SoCG",
+        "City_Country": "Athens, Greece",
+        "Date": "11-14 June 2024",
+        "Notification": "5 February 2024",
+        "Final_version": "20 March 2024",
+        "Early_register": "8 May 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "SWAT",
+        "City_Country": "Helsinki, Finland",
+        "Date": "12-14 June 2024",
+        "Notification": "2 April 2024",
+        "Final_version": "",
+        "Early_register": "18 May 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "SPAA",
+        "City_Country": "Nantes, France",
+        "Date": "17-21 June 2024",
+        "Notification": "7 April 2024",
+        "Final_version": "28 April 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "PODC",
+        "City_Country": "Nantes, France",
+        "Date": "17-21 June 2024",
+        "Notification": "22 April 2024",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "DisCoTec",
+        "City_Country": "Groningen, The Netherlands",
+        "Date": "17-21 June 2024",
+        "Notification": "5 April 2024",
+        "Final_version": "24 April 2024",
+        "Early_register": "",
+        "Remarks": "federated conference including COORDINATION, DAIS, and FORTE"
+    },
+    {
+        "Conference": "COORDINATION",
+        "City_Country": "Groningen, The Netherlands",
+        "Date": "17-21 June 2024",
+        "Notification": "5 April 2024",
+        "Final_version": "24 April 2024",
+        "Early_register": "",
+        "Remarks": "part of DisCoTec"
+    },
+    {
+        "Conference": "DAIS",
+        "City_Country": "Groningen, The Netherlands",
+        "Date": "17-21 June 2024",
+        "Notification": "5 April 2024",
+        "Final_version": "24 April 2024",
+        "Early_register": "",
+        "Remarks": "part of DisCoTec"
+    },
+    {
+        "Conference": "FORTE",
+        "City_Country": "Groningen, The Netherlands",
+        "Date": "17-21 June 2024",
+        "Notification": "5 April 2024",
+        "Final_version": "24 April 2024",
+        "Early_register": "",
+        "Remarks": "part of DisCoTec"
+    },
+    {
+        "Conference": "AofA",
+        "City_Country": "Bath, United Kingdom",
+        "Date": "17-21 June 2024",
+        "Notification": "28 April 2024",
+        "Final_version": "19 May 2024",
+        "Early_register": "3 May 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "DL",
+        "City_Country": "Bergen, Norway",
+        "Date": "18-21 June 2024",
+        "Notification": "8 May 2024",
+        "Final_version": "3 June 2024",
+        "Early_register": "21 May 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "WG",
+        "City_Country": "Gozd Martuljek, Slovenia",
+        "Date": "19-21 June 2024",
+        "Notification": "19 April 2024",
+        "Final_version": "12 July 2024",
+        "Early_register": "30 April 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "STOC",
+        "City_Country": "Vancouver, Canada",
+        "Date": "24-28 June 2024",
+        "Notification": "11 February 2024",
+        "Final_version": "31 March 2024",
+        "Early_register": "6 May 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "CPM",
+        "City_Country": "Fukuoka, Japan",
+        "Date": "25-27 June 2024",
+        "Notification": "10 April 2024",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "DCFS",
+        "City_Country": "Santa Clara, California, USA",
+        "Date": "25-27 June 2024",
+        "Notification": "26 April 2024",
+        "Final_version": "10 May 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "DEBS\n ",
+        "City_Country": "Lyon, France",
+        "Date": "25-28 June 2024",
+        "Notification": "12 April 2024\n13 May 2024",
+        "Final_version": "24 May 2024",
+        "Early_register": "13 June 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "LOFT",
+        "City_Country": "Bayreuth, Germany",
+        "Date": "26-28 June 2024",
+        "Notification": "beginning April",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "IWOCA",
+        "City_Country": "Ischia, Italy",
+        "Date": "1-4 July 2024",
+        "Notification": "15 April 2024",
+        "Final_version": "26 April 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "TACL",
+        "City_Country": "Barcelona, Spain",
+        "Date": "1-5 July 2024",
+        "Notification": "20 April 2024",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": "preceding summer school 25-28 June 2024"
+    },
+    {
+        "Conference": "IJCAR",
+        "City_Country": "Nancy, France",
+        "Date": "1-6 July 2024",
+        "Notification": "28 March 2024",
+        "Final_version": "28 April 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "IPCO",
+        "City_Country": "Wroc\u0142aw, Poland",
+        "Date": "3-5 July 2024",
+        "Notification": "26 January 2024",
+        "Final_version": "15 March 2024",
+        "Early_register": "31 March 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "LICS",
+        "City_Country": "Tallinn, Estonia",
+        "Date": "8-12 July 2024",
+        "Notification": "15 April 2024",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": "co-located with ICALP and FSCD"
+    },
+    {
+        "Conference": "ICALP",
+        "City_Country": "Tallinn, Estonia",
+        "Date": "8-12 July 2024",
+        "Notification": "14 April 2024",
+        "Final_version": "28 April 2024",
+        "Early_register": "",
+        "Remarks": "co-located with LICS and FSCD"
+    },
+    {
+        "Conference": "CiE",
+        "City_Country": "Amsterdam, The Netherlands",
+        "Date": "8-12 July 2024",
+        "Notification": "20 April 2024",
+        "Final_version": "1 May 2024",
+        "Early_register": "20 May 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "CSF",
+        "City_Country": "Enschede, The Netherlands",
+        "Date": "8-12 July 2024",
+        "Notification": "7 April 2024",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "ECMFA\n ",
+        "City_Country": "Enschede, The Netherlands",
+        "Date": "8-12 July 2024",
+        "Notification": "10 April 2024\n5 June 2024",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": "part of STAF"
+    },
+    {
+        "Conference": "ICGT",
+        "City_Country": "Enschede, The Netherlands",
+        "Date": "8-12 July 2024",
+        "Notification": "23 April 2024",
+        "Final_version": "14 May 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "FSCD",
+        "City_Country": "Tallinn, Estonia",
+        "Date": "10-13 July 2024",
+        "Notification": "22 April 2024",
+        "Final_version": "6 May 2024",
+        "Early_register": "",
+        "Remarks": "co-located with ICALP and LICS"
+    },
+    {
+        "Conference": "GECCO",
+        "City_Country": "Melbourne, Australia",
+        "Date": "14-18 July 2024",
+        "Notification": "21 March 2024",
+        "Final_version": "11 April 2024",
+        "Early_register": "10 May 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "ANTS",
+        "City_Country": "Cambridge, Massachusetts, USA",
+        "Date": "15-19 July 2024",
+        "Notification": "April 2024",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "FOIS\n ",
+        "City_Country": "Enschede, The Netherlands",
+        "Date": "8-9 July 2024 (online)\n15-19 July 2024 (on site)",
+        "Notification": "10 May 2024",
+        "Final_version": "",
+        "Early_register": "3 June 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "ISSAC",
+        "City_Country": "Raleigh, North Carolina, USA",
+        "Date": "16-19 July 2024",
+        "Notification": "16/30 April 2024",
+        "Final_version": "21 May 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "ICDCS",
+        "City_Country": "Jersey City, New Jersey, USA",
+        "Date": "16-19 July 2024",
+        "Notification": "12 April 2024",
+        "Final_version": "10 May 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "ICML",
+        "City_Country": "Vienna, Austria",
+        "Date": "21-27 July 2024",
+        "Notification": "1 May 2024",
+        "Final_version": "29 May 2024",
+        "Early_register": "15 June 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "AUTOMATA",
+        "City_Country": "Durham, United Kingdom",
+        "Date": "22-24 July 2024",
+        "Notification": "3 May 2024",
+        "Final_version": "17 May 2024",
+        "Early_register": "21 June 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "CCC",
+        "City_Country": "Ann Arbor, Michigan, USA",
+        "Date": "22-25 July 2024",
+        "Notification": "5 May 2024",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "CAV\n ",
+        "City_Country": "Montreal, Canada",
+        "Date": "22-27 July 2024",
+        "Notification": "26 March 2024\n10 May 2024",
+        "Final_version": "19 May 2024",
+        "Early_register": "",
+        "Remarks": "submissions updated until 26 January 2024\nartifact submission: 8 April 2024 (mandatory for tool papers)"
+    },
+    {
+        "Conference": "SEA",
+        "City_Country": "Vienna, Austria",
+        "Date": "23-26 July 2024",
+        "Notification": "27 March 2024",
+        "Final_version": "28 April 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "TASE",
+        "City_Country": "Guiyang, China",
+        "Date": "29 July - 1 August 2024",
+        "Notification": "10 April 2024",
+        "Final_version": "10 May 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "IJCAI\n ",
+        "City_Country": "Jeju Island, South Korea",
+        "Date": "3-9 August 2024",
+        "Notification": "22 February 2024\n16 April 2024",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": "appendix and resubmission until 24 January 2024"
+    },
+    {
+        "Conference": "CICM",
+        "City_Country": "Montr\u00e9al, Qu\u00e9bec, Canada",
+        "Date": "5-9 August 2024",
+        "Notification": "28 May 2024",
+        "Final_version": "11 June 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "DLT",
+        "City_Country": "G\u00f6ttingen, Germany",
+        "Date": "12-16 August 2024",
+        "Notification": "3 May 2024",
+        "Final_version": "17 May 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "CRYPTO\n ",
+        "City_Country": "Santa Barbara, California, USA",
+        "Date": "18-22 August 2024",
+        "Notification": "7 April 2024\n3 May 2024",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "RAMiCS",
+        "City_Country": "Prague, Czech Republic",
+        "Date": "19-23 August 2024",
+        "Notification": "21 May 2024",
+        "Final_version": "22 June 2024",
+        "Early_register": "",
+        "Remarks": "co-located with AiML"
+    },
+    {
+        "Conference": "AiML",
+        "City_Country": "Prague, Czech Republic",
+        "Date": "19-23 August 2024",
+        "Notification": "20 May 2024",
+        "Final_version": "21 June 2024",
+        "Early_register": "",
+        "Remarks": "co-located with RAMiCS"
+    },
+    {
+        "Conference": "SAT",
+        "City_Country": "Pune, India",
+        "Date": "21-24 August 2024",
+        "Notification": "22 May 2024",
+        "Final_version": "22 June 2024",
+        "Early_register": "",
+        "Remarks": "preceded 18-20 August 2024 by Indian SAT+SMT School"
+    },
+    {
+        "Conference": "COCOON",
+        "City_Country": "Shanghai, China",
+        "Date": "23-25 August 2024",
+        "Notification": "25 May 2024",
+        "Final_version": "10 June 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "KDD",
+        "City_Country": "Barcelona, Spain",
+        "Date": "25-29 August 2024",
+        "Notification": "16 May 2024",
+        "Final_version": "4 June 2024",
+        "Early_register": "10 July 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "Euro-Par",
+        "City_Country": "Madrid, Spain",
+        "Date": "26-30 August 2024",
+        "Notification": "29 April 2024",
+        "Final_version": "2 June 2024",
+        "Early_register": "30 June 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "PATAT",
+        "City_Country": "Lyngby, Denmark",
+        "Date": "27-30 August 2024",
+        "Notification": "3 May 2024",
+        "Final_version": "24 June 2024",
+        "Early_register": "24 June 2024",
+        "Remarks": ""
+    },
+    {
+        "Conference": "SCSS",
+        "City_Country": "Tokyo, Japan",
+        "Date": "28-30 August 2024",
+        "Notification": "1 May 2024",
+        "Final_version": "15 June 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "ALGO",
+        "City_Country": "Egham, United Kingdom",
+        "Date": "2-6 September 2024",
+        "Notification": "",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": "federated conference including ALGOCLOUD, ESA, IPEC, ATMOS, WABI"
+    },
+    {
+        "Conference": "ICFP",
+        "City_Country": "Milan, Italy",
+        "Date": "2-7 September 2024",
+        "Notification": "20 May 2024",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "ITP",
+        "City_Country": "Tbilisi, Georgia",
+        "Date": "9-14 September 2024",
+        "Notification": "20 May 2024",
+        "Final_version": "10 June 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "SAFECOMP",
+        "City_Country": "Florence, Italy",
+        "Date": "17-20 September 2024",
+        "Notification": "21 April 2024",
+        "Final_version": "1 June 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "CCS",
+        "City_Country": "Salt Lake City, Utah, USA",
+        "Date": "14-18 October 2024",
+        "Notification": "3 April 2024",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "Conference": "FOCS",
+        "City_Country": "Chicago, Illinois, USA",
+        "Date": "27-30 October 2024",
+        "Notification": "1 July 2024",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": ""
+    }
+]

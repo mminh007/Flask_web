@@ -1,0 +1,34 @@
+[
+    {
+        "Conference": "ALGOCLOUD",
+        "Year": "2024",
+        "City_Country": "Egham, United Kingdom",
+        "Starting_date": "2 September 2024",
+        "Ending_date": "3 September 2024",
+        "Remark": "part of ALGO"
+    },
+    {
+        "Conference": "SYNASC",
+        "Year": "2024",
+        "City_Country": "Timi\u015foara, Romania",
+        "Starting_date": "16 September 2024",
+        "Ending_date": "19 September 2024",
+        "Remark": ""
+    },
+    {
+        "Conference": "SPLASH",
+        "Year": "2024",
+        "City_Country": "Pasadena, California, USA",
+        "Starting_date": "20 October 2024",
+        "Ending_date": "25 October 2024",
+        "Remark": "co-located with SAS"
+    },
+    {
+        "Conference": "ICALP",
+        "Year": "2025",
+        "City_Country": "Aarhus, Denmark",
+        "Starting_date": "7 July 2025",
+        "Ending_date": "11 July 2025",
+        "Remark": ""
+    }
+]

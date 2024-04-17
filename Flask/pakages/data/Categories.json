@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Deadline ahead"
+    },
+    {
+        "id": 2,
+        "name": "Running conferences"
+    },
+    {
+        "id": 3,
+        "name": "Future conferences"
+    },
+    {
+        "id": 4,
+        "name": "Planned conferences"
+    }
+]
