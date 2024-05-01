@@ -1,0 +1,458 @@
+[
+    {
+        "Conference": "QEST",
+        "City_Country": "Calgary, Canada",
+        "Deadline": "10/15 April 2024",
+        "Date": "9-13 September 2024",
+        "Notification": "31 May 2024",
+        "Submission": "LNCS, 14 pages regular, 7 pages short, both excluding references; 4 pages work in progress"
+    },
+    {
+        "Conference": "FORMATS",
+        "City_Country": "Calgary, Canada",
+        "Deadline": "10/15 April 2024",
+        "Date": "9-13 September 2024",
+        "Notification": "31 May 2024",
+        "Submission": "LNCS, 14 pages regular, 7 pages short, both excluding references; 4 pages work in progress"
+    },
+    {
+        "Conference": "SmartData",
+        "City_Country": "Copenhagen, Denmark",
+        "Deadline": "15 April 2024",
+        "Date": "19-22 August 2024",
+        "Notification": "20 May 2024",
+        "Submission": "IEEE Transactions, 8 pages regular, 6 pages workshop"
+    },
+    {
+        "Conference": "FM\n ",
+        "City_Country": "Milan, Italy",
+        "Deadline": "15/19 April 2024",
+        "Date": "9-13 September 2024",
+        "Notification": "10 June 2024",
+        "Submission": "LNCS, 15 pages regular, tool, and case study; 6 pages demonstration, 22 pages tutorial,\nall excluding references"
+    },
+    {
+        "Conference": "ARQNL",
+        "City_Country": "Nancy, France",
+        "Deadline": "15/22 April 2024",
+        "Date": "2 July 2024",
+        "Notification": "3 June 2024",
+        "Submission": "CEUR-WS,15 pages full, 8 pages short, 2 pages abstracts, all excluding references; co-located with IJCAR"
+    },
+    {
+        "Conference": "ThEdu",
+        "City_Country": "Nancy, France",
+        "Deadline": "17 April 2024",
+        "Date": "2 July 2024",
+        "Notification": "8 May 2024",
+        "Submission": "own format, 10 pages; co-located with IJCAR"
+    },
+    {
+        "Conference": "UNIF",
+        "City_Country": "Nancy, France",
+        "Deadline": "18 April 2024",
+        "Date": "2 July 2024",
+        "Notification": "23 May 2024",
+        "Submission": "EPiC, 5 pages; co-located with IJCAR"
+    },
+    {
+        "Conference": "CP",
+        "City_Country": "Girona, Catalonia, Spain",
+        "Deadline": "18/23 April 2024",
+        "Date": "2-6 September 2024",
+        "Notification": "20 June 2024",
+        "Submission": "LIPIcs, 15 pages full, 8 pages short, both excluding references"
+    },
+    {
+        "Conference": "CIAA",
+        "City_Country": "Akita, Japan",
+        "Deadline": "19 April 2023",
+        "Date": "3-6 September 2024",
+        "Notification": "24 May 2023",
+        "Submission": "LNCS, 12 pages"
+    },
+    {
+        "Conference": "ICICS",
+        "City_Country": "Mytilene, Lesvos, Greece",
+        "Deadline": "19 April 2024",
+        "Date": "26-28 August 2024",
+        "Notification": "24 June 2024",
+        "Submission": "LNCS, 20 pages"
+    },
+    {
+        "Conference": "ECAI",
+        "City_Country": "Santiago de Compostela, Spain",
+        "Deadline": "19/25 April 2024",
+        "Date": "19-24 October 2024",
+        "Notification": "4 July 2024",
+        "Submission": "own format, 7 pages + 1 page references"
+    },
+    {
+        "Conference": "PAAR",
+        "City_Country": "Nancy, France",
+        "Deadline": "19/26 April 2024",
+        "Date": "2 July 2024",
+        "Notification": "1 June 2024",
+        "Submission": "CEURART, 15 pages regular, 8 pages extended abstracts; co-located with IJCAR"
+    },
+    {
+        "Conference": "SC2\n ",
+        "City_Country": "Nancy, France",
+        "Deadline": "19 April 2024\n3 May 2024",
+        "Date": "2 July 2024",
+        "Notification": "17 May 2024",
+        "Submission": "CEUR-WG, 16 pages full, 4 pages extended abstracts, both excluding references, 2 pages presentation only;\nsecond deadline for ISSAC Fast-Track; co-located with IJCAR"
+    },
+    {
+        "Conference": "ESA",
+        "City_Country": "Egham, United Kingdom",
+        "Deadline": "22 April 2024",
+        "Date": "2-4 September 2024",
+        "Notification": "23 June 2024",
+        "Submission": "LIPIcs, double-blind, 12 pages excluding front matter and references; part of ALGO"
+    },
+    {
+        "Conference": "WADT\n ",
+        "City_Country": "Enschede, The Netherlands",
+        "Deadline": "22 April 2024\n16 September 2024",
+        "Date": "during STAF",
+        "Notification": "29 April 2024\n25 November 2024",
+        "Submission": "second dates for post-proceedings"
+    },
+    {
+        "Conference": "LOD",
+        "City_Country": "Castiglione della Pescaia, Italy",
+        "Deadline": "23 April 2024",
+        "Date": "22-25 September 2024",
+        "Notification": "23 May 2024",
+        "Submission": "LNCS, 15 pages long, 11 pages short"
+    },
+    {
+        "Conference": "SCN",
+        "City_Country": "Amalfi (SA), Italy",
+        "Deadline": "24 April 2024",
+        "Date": "11-13 September 2024",
+        "Notification": "24 June 2024",
+        "Submission": "LNCS, 20 pages excluding references"
+    },
+    {
+        "Conference": "KR",
+        "City_Country": "Hanoi, Vietnam",
+        "Deadline": "24 April / 1 May 2024",
+        "Date": "2-8 November 2024",
+        "Notification": "10 July 2024",
+        "Submission": "own format, 9 pages regular, 4 pages short, both excluding references; co-located with NMR"
+    },
+    {
+        "Conference": "FMICS",
+        "City_Country": "Milan, Italy",
+        "Deadline": "25 April / 1 May 2024",
+        "Date": "9-11 September 2024",
+        "Notification": "10 June 2024",
+        "Submission": "LNCS, 15 pages excluding references; co-located with FM"
+    },
+    {
+        "Conference": "MFCS",
+        "City_Country": "Bratislava, Slovakia",
+        "Deadline": "26 April 2024",
+        "Date": "26-30 August 2024",
+        "Notification": "24 June 2024",
+        "Submission": "LIPIcs, 12 pages excluding references"
+    },
+    {
+        "Conference": "CILC",
+        "City_Country": "Rome, Italy",
+        "Deadline": "26 April 2024",
+        "Date": "26-28 June 2024",
+        "Notification": "22 May 2024",
+        "Submission": "CEURART, 15 pages full, 8 pages short"
+    },
+    {
+        "Conference": "FMCAD",
+        "City_Country": "Prague, Czech Republic",
+        "Deadline": "28 April / 5 May 2024",
+        "Date": "14-18 October 2024",
+        "Notification": "8 July 2024",
+        "Submission": "own format, 8 pages long, 4 pages short, both excluding references"
+    },
+    {
+        "Conference": "CCS",
+        "City_Country": "Salt Lake City, Utah, USA",
+        "Deadline": "29 April 2024",
+        "Date": "14-18 October 2024",
+        "Notification": "",
+        "Submission": "ACM, 12 pages excluding references"
+    },
+    {
+        "Conference": "ICLP\n ",
+        "City_Country": "Dallas, Texas, USA",
+        "Deadline": "29 April / 6 May 2024\n8 July 2024",
+        "Date": "11-17 October 2024",
+        "Notification": "19 June 2024\n22 July 2024",
+        "Submission": "TPLP, 14 pages regular;\nEPTCS, 7 pages short, 3 pages recently published, 3 pages system demonstrations, 3 pages birds of a feather"
+    },
+    {
+        "Conference": "MATCH-UP",
+        "City_Country": "Oxford, United Kingdom",
+        "Deadline": "1 May 2024",
+        "Date": "9-11 September 2024",
+        "Notification": "1 July 2024",
+        "Submission": "12 pages A4"
+    },
+    {
+        "Conference": "QUANTIFY",
+        "City_Country": "Nancy, France",
+        "Deadline": "1 May 2024",
+        "Date": "1 July 2024",
+        "Notification": "21 May 2024",
+        "Submission": "LNCS, 15 pages full and tutorial, 2 pages talk abstracts, all excluding references; co-located with IJCAR"
+    },
+    {
+        "Conference": "DSAA",
+        "City_Country": "San Diego, California, USA",
+        "Deadline": "2 May 2024",
+        "Date": "6-10 October 2024",
+        "Notification": "24 July 2024",
+        "Submission": "IEEE, 2 columns, 10 pages"
+    },
+    {
+        "Conference": "LOPSTR",
+        "City_Country": "Milan, Italy",
+        "Deadline": "6/10 May 2024",
+        "Date": "9-11 September 2024",
+        "Notification": "26 June 2024",
+        "Submission": "LNCS,15 pages regular, 8 pages short, both excluding references; co-located with FM and PPDP"
+    },
+    {
+        "Conference": "PPDP\n ",
+        "City_Country": "Milan, Italy",
+        "Deadline": "6/13 May 2024",
+        "Date": "9-11 September 2024",
+        "Notification": "3 July 2024",
+        "Submission": "ACM, 2 column, 12 pages excluding references regular, 10 pages system descriptions,\n5 pages including references experience reports; co-located with FM and LOPSTR"
+    },
+    {
+        "Conference": "DISC",
+        "City_Country": "Madrid, Spain",
+        "Deadline": "7/14 May 2024",
+        "Date": "28 October - 1 November 2024",
+        "Notification": "2 August 2024",
+        "Submission": "LIPIcs, double-blind, no page limit, but only first 15 pages read, 15 pages excluding references in proceedings"
+    },
+    {
+        "Conference": "TAP",
+        "City_Country": "Milan, Italy",
+        "Deadline": "8/15 May 2024",
+        "Date": "9\u201310 September 2024",
+        "Notification": "26 June 2024",
+        "Submission": "LNCS, 16 pages regular + tools + case studies, 6 pages short, all excluding references; co-located with FM"
+    },
+    {
+        "Conference": "FACS",
+        "City_Country": "Milan, Italy",
+        "Deadline": "8/15 May 2024",
+        "Date": "9-10 September 2024",
+        "Notification": "26 June 2024",
+        "Submission": "LNCS, 16 pages full, 6 pages short, 16 pages special tract, all excluding references; co-located with FM"
+    },
+    {
+        "Conference": "ADT",
+        "City_Country": "Piscataway, New Jersey, USA",
+        "Deadline": "10/17 May 2024",
+        "Date": "14-16 October 2024",
+        "Notification": "19 July 2024",
+        "Submission": "LNCS, 15 pages"
+    },
+    {
+        "Conference": "PoS\n \n ",
+        "City_Country": "Pune, India",
+        "Deadline": "13/18 May 2024\n27 May 2024\n5 June 2024",
+        "Date": "20 August 2024",
+        "Notification": "23 June 2023",
+        "Submission": "CEURART, 1 column, 15 pages long, 8 pages short, both excluding references,\n8 pages competition solver description;\n3rd deadline for SAT fast track, last deadline for competition solver descriptions; satellite event of SAT"
+    },
+    {
+        "Conference": "FedCSIS",
+        "City_Country": "Belgrade, Serbia",
+        "Deadline": "14 May 2024",
+        "Date": "8-11 September 2024",
+        "Notification": "18 June 2024",
+        "Submission": "own format, 12 pages full, 6 pages short, 8 pages communication"
+    },
+    {
+        "Conference": "WAIT",
+        "City_Country": "Nancy, France",
+        "Deadline": "15 May 2024",
+        "Date": "2 July 2024",
+        "Notification": "1 June 2024",
+        "Submission": "EasyChair, 2 pages; co-located with IJCAR"
+    },
+    {
+        "Conference": "WABI",
+        "City_Country": "Egham, United Kingdom",
+        "Deadline": "19 May 2024",
+        "Date": "2-4 September 2024",
+        "Notification": "23 June 2024",
+        "Submission": "LIPIcs, 15 pages excluding front matter and references; part of ALGO"
+    },
+    {
+        "Conference": "SAGT",
+        "City_Country": "Amsterdam, The Netherlands",
+        "Deadline": "21 May 2024",
+        "Date": "3-6 September 2024",
+        "Notification": "5 July 2024",
+        "Submission": "LNCS, 18 pages excluding references"
+    },
+    {
+        "Conference": "ICTAC",
+        "City_Country": "Bangkok, Thailand",
+        "Deadline": "14/21 June 2024",
+        "Date": "25-29 November 2024",
+        "Notification": "1 September 2024",
+        "Submission": "LNCS, 16 pages excluding references full, 8 pages short and tool"
+    },
+    {
+        "Conference": "GD\n ",
+        "City_Country": "Vienna, Austria",
+        "Deadline": "31 May / 7 June 2024",
+        "Date": "18-20 September 2024",
+        "Notification": "20 July 2024",
+        "Submission": "LIPIcs with own LaTeX class, double-blind, 500 lines regular, 225 lines short,\nboth excluding front matter and references"
+    },
+    {
+        "Conference": "LSFA",
+        "City_Country": "Goi\u00e2nia, Brazil",
+        "Deadline": "31 May / 7 June 2024",
+        "Date": "18-20 September 2024",
+        "Notification": "",
+        "Submission": "EPTCS, 16 pages full, 6 pages short"
+    },
+    {
+        "Conference": "IOTSMS",
+        "City_Country": "Malm\u00f6, Sweden",
+        "Deadline": "1 June 2024",
+        "Date": "2-5 September 2024",
+        "Notification": "15 July 2024",
+        "Submission": "IEEE, 2 column, 8 pages full regular, 6 pages short, 3 pages posters and demos"
+    },
+    {
+        "Conference": "JAF",
+        "City_Country": "Passau, Germany",
+        "Deadline": "2 June 2024",
+        "Date": "9-11 September 2024",
+        "Notification": "2 July 2024",
+        "Submission": "3 pages"
+    },
+    {
+        "Conference": "iFM",
+        "City_Country": "Manchester, UK",
+        "Deadline": "3/10 June 2024",
+        "Date": "13-15 November 2024",
+        "Notification": "5 August 2024",
+        "Submission": "LNCS, 16 pages regular, 6 pages short"
+    },
+    {
+        "Conference": "SEFM",
+        "City_Country": "Aveiro, Portugal",
+        "Deadline": "7/14 June 2024",
+        "Date": "4-8 November 2024",
+        "Notification": "15 August 2024",
+        "Submission": "LNCS, 16 pages excludinge references regular, 8 pages tool"
+    },
+    {
+        "Conference": "MLCS",
+        "City_Country": "Vilnius, Lithuania",
+        "Deadline": "15 June 2024",
+        "Date": "9-13 September 2024",
+        "Notification": "15 July 2024",
+        "Submission": "LNCS, 16 pages regular, 6 pages short"
+    },
+    {
+        "Conference": "WISE",
+        "City_Country": "Doha, Qatar",
+        "Deadline": "20/30 June 2024",
+        "Date": "2-5 December 2024",
+        "Notification": "30 August 2024",
+        "Submission": "LNCS, double-blind, 15 pages"
+    },
+    {
+        "Conference": "TIME",
+        "City_Country": "Montpellier, France",
+        "Deadline": "21 June 2024",
+        "Date": "28-30 October 2024",
+        "Notification": "2 August 2024",
+        "Submission": "LIPIcs, 12 pages excluding references + 5 pages appendix"
+    },
+    {
+        "Conference": "LPNMR",
+        "City_Country": "Dallas, Texas, USA",
+        "Deadline": "21/28 June 2024",
+        "Date": "11-14 October 2024",
+        "Notification": "28 July 2024",
+        "Submission": "LNCS, 13 pages long, 6 pages short"
+    },
+    {
+        "Conference": "IPEC",
+        "City_Country": "Egham, United Kingdom",
+        "Deadline": "26/30 June 2024",
+        "Date": "4-6 September 2024",
+        "Notification": "5 August 2024",
+        "Submission": "LIPIcs, no page limit, but only first 12 pages read; part of ALGO"
+    },
+    {
+        "Conference": "ISAAC",
+        "City_Country": "Sydney, Australia",
+        "Deadline": "28 June 2024",
+        "Date": "8-12 December 2024",
+        "Notification": "2 September 2024",
+        "Submission": "LIPIcs, double-blind, 12 pages excluding references"
+    },
+    {
+        "Conference": "ATMOS",
+        "City_Country": "Egham, United Kingdom",
+        "Deadline": "30 June 2024",
+        "Date": "5-6 September 2024",
+        "Notification": "31 July 2024",
+        "Submission": "OASIcs, 12 pages excluding references regular, 6 pages short; part of ALGO"
+    },
+    {
+        "Conference": "FSTTCS",
+        "City_Country": "Gandhinagar, Gujarat, India",
+        "Deadline": "5 July 2024",
+        "Date": "16-18 December 2024",
+        "Notification": "16 September 2024",
+        "Submission": "LIPIcs, 15 pages excluding references"
+    },
+    {
+        "Conference": "NMR",
+        "City_Country": "Hanoi, Vietnam",
+        "Deadline": "7/12 July 2024",
+        "Date": "2-4 November 2024",
+        "Notification": "1 September 2024",
+        "Submission": "CEUR, 10 pages including references full, 3 pages excluding referencesextended abstracts; co-located with KR"
+    },
+    {
+        "Conference": "TERMGRAPH",
+        "City_Country": "post-proceedings",
+        "Deadline": "1 August 2024",
+        "Date": "7 April 2024",
+        "Notification": "15 September 2024",
+        "Submission": "EPTCS, 16 pages post-proceedings"
+    },
+    {
+        "Conference": "KDD",
+        "City_Country": "???",
+        "Deadline": "1/8 August 2024",
+        "Date": "",
+        "Notification": "",
+        "Submission": ""
+    },
+    {
+        "Conference": "WALCOM",
+        "City_Country": "Chengdu, China",
+        "Deadline": "22 September 2024",
+        "Date": "28 February - 2 March 2025",
+        "Notification": "8 November 2024",
+        "Submission": "LNCS, 14 pages"
+    }
+]

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset=""utf-8>
+        <title>Deadline Ahead</title>
+        <link href = "{{ url_for('static', filename='css/style.css') }}" rel="stylesheet"/> 
+    </head>
+    <body>
+        <div class="container">
+            <h1 class="subject"> Deadline Ahead</h1>
+
+            <table border="1" class="conferences">
+                <tr>
+                    <th>Conferences</th>
+                    <th>City, Country</th>
+                    <th>Deadline</th>
+                    <th>Date</th>
+                    <th>Notification</th>
+                    <th>Submission</th>
+                </tr>
+                {% for p in conf %}
+                <tr>
+                    <td><a href="#">{{ p.Conference }}</a></td>
+                    <td>{{ p.City_Country }}</td>
+                    <td>{{ p.Deadline }}</td>
+                    <td>{{ p.Date }}</td>
+                    <td>{{ p.Notification }}</td>
+                    <td>{{ p.Submission }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </body>
+</html>
