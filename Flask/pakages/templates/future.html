@@ -6,8 +6,29 @@
         <link href = "{{ url_for('static', filename='css/style.css') }}" rel="stylesheet"/> 
     </head>
     <body>
-        <h1 class="subject">Future conferences</h1>
+        <div class="container">
+            <h1 class="subject">Future Conferences</h1>
 
-        
+            <table border="1" class="conferences">
+                <tr>
+                    <th>Conferences</th>
+                    <th>City, Country</th>
+                    <th>Deadline</th>
+                    <th>Date</th>
+                    <th>Notification</th>
+                    <th>Submission</th>
+                </tr>
+                {% for p in conf %}
+                <tr>
+                    <td><a href="#">{{ p.Conference }}</a></td>
+                    <td>{{ p.City_Country }}</td>
+                    <td>{{ p.Deadline }}</td>
+                    <td>{{ p.Date }}</td>
+                    <td>{{ p.Notification }}</td>
+                    <td>{{ p.Submission }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>  
     </body>
 </html>
