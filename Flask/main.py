@@ -4,6 +4,9 @@ import utils
 
 @app.route("/")
 def home():
+    url = request.args.get("fname")
+    utils.get_data(url)
+
     cats = utils.load_categories()
     return render_template("index.html",
                            categories = cats)
