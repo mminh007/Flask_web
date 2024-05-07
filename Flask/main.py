@@ -45,7 +45,11 @@ def planned_list(conferences):
 
 @app.route("/detect")
 def DetrDetection():
-    return render_template("detection.html")
+    image_path = request.args.get("filename")
+    show_image = utils.DetrDetection(image_path)
+    return render_template("detection.html",
+                           show_img = show_image)
+    
 if __name__ == "__main__":
     app.run(debug=True)
     
