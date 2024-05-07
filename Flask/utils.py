@@ -4,6 +4,11 @@ from selenium.common.exceptions import NoSuchElementException
 import json
 import os
 from pakages import app 
+from transformers import AutoImageProcessor, DetrForObjectDetection
+import torch
+from PIL import Image, ImageDraw
+import matplotlib.pyplot as plt
+
 
 def read_json(path):
     with open(path, "r") as f:
@@ -113,6 +118,37 @@ def get_data(url = "https://www.lix.polytechnique.fr/~hermann/conf.php#"):
         #         pass
         driver.close()
 
+def DetrDetection(path):
+    if path == None:
+        return "nhap link"
+    
+    else:
 
+        image = Image.open(path)
 
-# file nay chua cac ham tuong tac voi data
+        image_processor = AutoImageProcessor.from_pretrained("facebook/detr-resnet-50")
+        model = DetrForObjectDetection.from_pretrained("facebook/detr-resnet-50")
+
+        inputs = image_processor(images=image, return_tensors="pt")
+        outputs = model(**inputs)
+
+        # convert outputs (bounding boxes and class logits) to Pascal VOC format (xmin, ymin, xmax, ymax)
+        target_sizes = torch.tensor([image.size[::-1]])
+        results = image_processor.post_process_object_detection(outputs, threshold=0.9, target_sizes=target_sizes)[0]
+
+        draw = ImageDraw.Draw(image)
+        for score, label, box in zip(results["scores"], results["labels"], results["boxes"]):
+            box = [round(i, 2) for i in box.tolist()]
+            x, y, x2, y2 = tuple(box)
+            draw.rectangle((x, y, x2, y2), outline="red", width=1)
+            draw.text((x, y), model.config.id2label[label.item()], fill="white")
+
+        save_path = f"Flask/images/pred_{path}"
+        Image.save(save_path)
+        return show_image(save_path)
+
+def show_image(path):
+    image_path = path
+    return image_path
+# Object detection
+

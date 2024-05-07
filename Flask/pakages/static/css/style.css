@@ -6,7 +6,6 @@ h1.subject {
     text-align:center;
 }
 body {
-    background-color: lightblue;
     color: darkblue
 }
 
@@ -19,8 +18,20 @@ table.conferences {
 .container {
     width: 80%;
     margin: 0 auto;
+    position: relative;
 }
 
 input[type="text"] {
     width: 20%;
+}
+input[type="file"] {
+    width: 20%;
+}
+
+.detection {
+    display: flex;
+    justify-content: center;
+}
+.right {
+    text-align: center;
 }
