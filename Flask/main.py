@@ -43,6 +43,9 @@ def planned_list(conferences):
     return render_template("planned.html",
                            conf = conferences)
 
+@app.route("/detect")
+def DetrDetection():
+    return render_template("detection.html")
 if __name__ == "__main__":
     app.run(debug=True)
     
