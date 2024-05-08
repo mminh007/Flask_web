@@ -63,7 +63,7 @@ def get_data(url = "https://www.lix.polytechnique.fr/~hermann/conf.php#"):
             td = [item.text for item in t.find_elements(By.CSS_SELECTOR, "td")]
             dictionary = {
                 "Conference": td[0],
-                "City, Country": td[1],
+                "City_Country": td[1],
                 "Deadline": td[2],
                 "Date": td[3],
                 "Notification": td[4],
@@ -78,7 +78,7 @@ def get_data(url = "https://www.lix.polytechnique.fr/~hermann/conf.php#"):
             td = [item.text for item in t.find_elements(By.CSS_SELECTOR, "td")]
             dictionary = {
                 "Conference": td[0],
-                "City, Country": td[1],
+                "City_Country": td[1],
                 "Date": td[2],
                 "Remark": td[3],
             }
@@ -91,11 +91,11 @@ def get_data(url = "https://www.lix.polytechnique.fr/~hermann/conf.php#"):
             td = [item.text for item in t.find_elements(By.CSS_SELECTOR, "td")]
             dictionary = {
                 "Conference": td[0],
-                "City, Country": td[1],
+                "City_Country": td[1],
                 "Date": td[2],
                 "Notification": td[3],
-                "Final version": td[4],
-                "Early register": td[5],
+                "Final_version": td[4],
+                "Early_register": td[5],
                 "Remarks": td[6],
             }
             data_2.append(dictionary)
@@ -108,15 +108,32 @@ def get_data(url = "https://www.lix.polytechnique.fr/~hermann/conf.php#"):
             dictionary = {
                 "Conference": td[0],
                 "Year": td[1],
-                "City, Country": td[2],
-                "Starting date": td[3],
-                "Ending date": td[4],
+                "City_Country": td[2],
+                "Starting_date": td[3],
+                "Ending_date": td[4],
                 "Remark": td[5],
             }
             data_3.append(dictionary)
 
         #         pass
         driver.close()
+
+        path = "C:/Users/tuanm/OneDrive/projects/Flask/pakages/data"
+        js_0 = json.dumps(data_0, indent=4)
+        with open(os.path.join(path, "Deadline_ahead.json"), "w") as f:
+            f.write(js_0)
+
+        js_1 = json.dumps(data_1, indent=4)
+        with open(os.path.join(path, "Running_conferences.json"), "w") as f:
+            f.write(js_1)
+
+        js_2 = json.dumps(data_2, indent=4)
+        with open(os.path.join(path, "Future_conferences.json"), "w") as f:
+            f.write(js_2)
+
+        json_ob = json.dumps(data_3, indent=4)
+        with open(os.path.join(path, "Planned_conferences.json"), "w") as f:
+            f.write(json_ob)
 
 def DetrDetection(path):
     if path == None:

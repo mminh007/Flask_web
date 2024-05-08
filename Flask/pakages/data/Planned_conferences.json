@@ -1,13 +1,5 @@
 [
     {
-        "Conference": "ALGOCLOUD",
-        "Year": "2024",
-        "City_Country": "Egham, United Kingdom",
-        "Starting_date": "2 September 2024",
-        "Ending_date": "3 September 2024",
-        "Remark": "part of ALGO"
-    },
-    {
         "Conference": "SYNASC",
         "Year": "2024",
         "City_Country": "Timi\u015foara, Romania",
@@ -22,6 +14,38 @@
         "Starting_date": "20 October 2024",
         "Ending_date": "25 October 2024",
         "Remark": "co-located with SAS"
+    },
+    {
+        "Conference": "ALENEX",
+        "Year": "2025",
+        "City_Country": "New Orleans, Lousiana, USA",
+        "Starting_date": "12 January 2025",
+        "Ending_date": "13 January 2025",
+        "Remark": "call posted in June 2024; co-located with SODA"
+    },
+    {
+        "Conference": "SOSA",
+        "Year": "2025",
+        "City_Country": "New Orleans, Lousiana, USA",
+        "Starting_date": "13 January 2025",
+        "Ending_date": "14 January 2025",
+        "Remark": "call posted in June 2024; co-located with SODA"
+    },
+    {
+        "Conference": "SOFSEM",
+        "Year": "2025",
+        "City_Country": "Bratislava, Slovakia",
+        "Starting_date": "20 January 2025",
+        "Ending_date": "23 January 2025",
+        "Remark": ""
+    },
+    {
+        "Conference": "STACS",
+        "Year": "2025",
+        "City_Country": "Jena, Germany",
+        "Starting_date": "4 March 2025",
+        "Ending_date": "7 March 2025",
+        "Remark": "LIPIcs proceedings"
     },
     {
         "Conference": "ICALP",
