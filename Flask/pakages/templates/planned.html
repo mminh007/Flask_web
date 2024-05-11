@@ -9,7 +9,14 @@
         <div class="container">
             <h1 class="subject">Planned Conferences</h1>
 
-            <table border="1" class="conferences">
+            <hr>
+            <form>
+                <input type="text", id="myInput" placeholder="Search for Country..." onkeyup="myFunction()" />
+            </form>
+
+            <hr>
+
+            <table border="1" class="conferences" id="myTable">
                 <tr>
                     <th>Conferences</th>
                     <th>City, Country</th>
@@ -29,6 +36,27 @@
                 </tr>
                 {% endfor %}
             </table>
+
+            <script>
+                function myFunction() {
+                    var input, filter, table, tr, td, i, txtValue;
+                    input = document.getElementById("myInput");
+                    filter = input.value.toUpperCase();
+                    table = document.getElementById("myTable");
+                    tr = table.getElementsByTagName("tr");
+                    for (i = 0; i < tr.length; i++) {
+                        td = tr[i].getElementsByTagName("td")[1];
+                        if (td) {
+                            txtValue = td.textContent || td.innerText;
+                            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                                tr[i].style.display = "";
+                            } else {
+                                tr[i].style.display = "none";
+                            }
+                        }       
+                    }
+                }
+            </script>
         </div>  
     </body>
 </html>
