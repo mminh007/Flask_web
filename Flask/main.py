@@ -15,31 +15,34 @@ def home():
 @app.route("/conferences")
 def conferences_list():
     cate_id = int(request.args.get("category_id"))
-    conference = utils.load_conferences(cats = cate_id)
 
     if cate_id == 1:
-        return deadline_list(conference)
+        return deadline_list()
     elif cate_id == 2:
-        return running_list(conference)
+        return running_list()
     elif cate_id == 3:
-        return future_list(conference)
+        return future_list()
     else:
-        return planned_list(conference)
+        return planned_list()
 
 
-def deadline_list(conferences):
+def deadline_list():
+    conferences = utils.load_deadline()
     return render_template("deadline.html",
                            conf = conferences)
 
-def running_list(conferences):
+def running_list():
+    conferences = utils.load_running()
     return render_template("running.html",
                            conf = conferences)
 
-def future_list(conferences):
+def future_list():
+    conferences = utils.load_future()
     return render_template("future.html",
                            conf = conferences)
 
-def planned_list(conferences):
+def planned_list():
+    conferences = utils.load_planned()
     return render_template("planned.html",
                            conf = conferences)
 
