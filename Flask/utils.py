@@ -61,8 +61,12 @@ def get_data(url = "https://www.lix.polytechnique.fr/~hermann/conf.php#"):
         tr_0 = tbodys[0].find_elements(By.CSS_SELECTOR, "tr")
 
         for t in tr_0:
+            href = t.find_element(By.TAG_NAME, "a").get_attribute("href")
+            confname = t.find_element(By.TAG_NAME, "span").text
             td = [item.text for item in t.find_elements(By.CSS_SELECTOR, "td")]
             dictionary = {
+                "name": confname,
+                "link": href,
                 "Conference": td[0],
                 "City_Country": td[1],
                 "Deadline": td[2],
@@ -76,8 +80,12 @@ def get_data(url = "https://www.lix.polytechnique.fr/~hermann/conf.php#"):
         tr_1 = tbodys[1].find_elements(By.CSS_SELECTOR, "tr")
 
         for t in tr_1:
+            href = t.find_element(By.TAG_NAME, "a").get_attribute("href")
+            confname = t.find_element(By.TAG_NAME, "span").text
             td = [item.text for item in t.find_elements(By.CSS_SELECTOR, "td")]
             dictionary = {
+                "name": confname,
+                "link": href,
                 "Conference": td[0],
                 "City_Country": td[1],
                 "Date": td[2],
@@ -89,8 +97,12 @@ def get_data(url = "https://www.lix.polytechnique.fr/~hermann/conf.php#"):
         tr_2 = tbodys[2].find_elements(By.CSS_SELECTOR, "tr")
 
         for t in tr_2:
+            href = t.find_element(By.TAG_NAME, "a").get_attribute("href")
+            confname = t.find_element(By.TAG_NAME, "span").text
             td = [item.text for item in t.find_elements(By.CSS_SELECTOR, "td")]
             dictionary = {
+                "name": confname,
+                "link": href,
                 "Conference": td[0],
                 "City_Country": td[1],
                 "Date": td[2],
@@ -105,8 +117,12 @@ def get_data(url = "https://www.lix.polytechnique.fr/~hermann/conf.php#"):
         tr_3 = tbodys[3].find_elements(By.CSS_SELECTOR, "tr")
 
         for t in tr_3:
+            href = t.find_element(By.TAG_NAME, "a").get_attribute("href")
+            confname = t.find_element(By.TAG_NAME, "span").text
             td = [item.text for item in t.find_elements(By.CSS_SELECTOR, "td")]
             dictionary = {
+                "name": confname,
+                "link": href,
                 "Conference": td[0],
                 "Year": td[1],
                 "City_Country": td[2],
