@@ -1,0 +1,6 @@
+selenium
+timm
+transformers
+accelerate
+pillow
+flask

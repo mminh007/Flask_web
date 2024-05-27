@@ -1,50 +1,6 @@
 [
     {
         "name": "",
-        "link": "https://eventos.ull.es/isco-2024",
-        "Conference": "ISCO",
-        "City_Country": "Tenerife, Canary Islands, Spain",
-        "Date": "22-24 May 2024",
-        "Notification": "15 March 2024",
-        "Final_version": "15 April 2024",
-        "Early_register": "31 March 2024",
-        "Remarks": "school 20-21 May 2024"
-    },
-    {
-        "name": "",
-        "link": "https://eurocrypt.iacr.org/2024/",
-        "Conference": "EUROCRYPT\n ",
-        "City_Country": "Zurich, Switzerland",
-        "Date": "26-30 May 2024",
-        "Notification": "8 December 2023\n31 January 2024",
-        "Final_version": "",
-        "Early_register": "26 April 2024",
-        "Remarks": ""
-    },
-    {
-        "name": "",
-        "link": "https://easychair.org/smart-program/LPAR2024/",
-        "Conference": "LPAR",
-        "City_Country": "Mauritius",
-        "Date": "26-31 May 2024",
-        "Notification": "1 April 2024",
-        "Final_version": "5 April 2024",
-        "Early_register": "16 May 2024",
-        "Remarks": ""
-    },
-    {
-        "name": "",
-        "link": "http://sirocco2024.di.unisa.it/",
-        "Conference": "SIROCCO",
-        "City_Country": "Vietri sul Mare, Salerno, Italy",
-        "Date": "27-29 May 2024",
-        "Notification": "28 January 2024",
-        "Final_version": "",
-        "Early_register": "31 March 2024",
-        "Remarks": ""
-    },
-    {
-        "name": "",
         "link": "https://sites.google.com/view/cpaior2024",
         "Conference": "CPAIOR",
         "City_Country": "Uppsala, Sweden",
@@ -815,6 +771,17 @@
     },
     {
         "name": "",
+        "link": "http://www.pragmaticsofsat.org/2024/",
+        "Conference": "PoS",
+        "City_Country": "Pune, India",
+        "Date": "20 August 2024",
+        "Notification": "23 June 2023",
+        "Final_version": "14 July 2024",
+        "Early_register": "",
+        "Remarks": "satellite event of SAT"
+    },
+    {
+        "name": "",
         "link": "http://satisfiability.org/SAT24/",
         "Conference": "SAT",
         "City_Country": "Pune, India",
@@ -1013,6 +980,28 @@
     },
     {
         "name": "",
+        "link": "https://lopstr.github.io/2024/",
+        "Conference": "LOPSTR",
+        "City_Country": "Milan, Italy",
+        "Date": "9-11 September 2024",
+        "Notification": "26 June 2024",
+        "Final_version": "17 July 2024",
+        "Early_register": "",
+        "Remarks": "co-located with FM and PPDP"
+    },
+    {
+        "name": "",
+        "link": "https://ppdp2024.github.io/",
+        "Conference": "PPDP",
+        "City_Country": "Milan, Italy",
+        "Date": "9-11 September 2024",
+        "Notification": "5 July 2024",
+        "Final_version": "24 July 2024",
+        "Early_register": "",
+        "Remarks": "co-located with FM and LOPSTR"
+    },
+    {
+        "name": "",
         "link": "https://www.fm24.polimi.it/",
         "Conference": "FM",
         "City_Country": "Milan, Italy",
@@ -1101,12 +1090,34 @@
     },
     {
         "name": "",
+        "link": "https://lod2024.icas.events/",
+        "Conference": "LOD",
+        "City_Country": "Castiglione della Pescaia, Italy",
+        "Date": "22-25 September 2024",
+        "Notification": "23 June 2024",
+        "Final_version": "23 July 202423",
+        "Early_register": "23 July 2024",
+        "Remarks": "early registration obligatory for authors"
+    },
+    {
+        "name": "",
         "link": "https://www.informatik.uni-wuerzburg.de/ki24/",
         "Conference": "KI",
         "City_Country": "W\u00fcrzburg, Germany",
         "Date": "25-27 September 2024",
         "Notification": "15 June 2024",
         "Final_version": "10 July 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "name": "",
+        "link": "https://dsaa2024.dsaa.co/",
+        "Conference": "DSAA",
+        "City_Country": "San Diego, California, USA",
+        "Date": "6-10 October 2024",
+        "Notification": "24 July 2024",
+        "Final_version": "21 August 2024",
         "Early_register": "",
         "Remarks": ""
     },
@@ -1164,6 +1175,28 @@
         "Final_version": "",
         "Early_register": "",
         "Remarks": ""
+    },
+    {
+        "name": "",
+        "link": "https://2024.splashcon.org/home/sas-2024",
+        "Conference": "SAS",
+        "City_Country": "Pasadena, California, USA",
+        "Date": "20-22 October 2024",
+        "Notification": "16 July 2024",
+        "Final_version": "12 August 2024",
+        "Early_register": "",
+        "Remarks": ""
+    },
+    {
+        "name": "",
+        "link": "https://2024.splashcon.org/",
+        "Conference": "SPLASH",
+        "City_Country": "Pasadena, California, USA",
+        "Date": "20-25 October 2024",
+        "Notification": "",
+        "Final_version": "",
+        "Early_register": "",
+        "Remarks": "co-located with SAS"
     },
     {
         "name": "",

@@ -1,73 +1,13 @@
 [
     {
         "name": "",
-        "link": "http://www.pragmaticsofsat.org/2024/",
-        "Conference": "PoS\n \n ",
-        "City_Country": "Pune, India",
-        "Deadline": "13/18 May 2024\n27 May 2024\n5 June 2024",
-        "Date": "20 August 2024",
-        "Notification": "23 June 2023",
-        "Submission": "CEURART, 1 column, 15 pages long, 8 pages short, both excluding references,\n8 pages competition solver description;\n3rd deadline for SAT fast track, last deadline for competition solver descriptions; satellite event of SAT"
-    },
-    {
-        "name": "",
-        "link": "https://lopstr.github.io/2024/",
-        "Conference": "LOPSTR",
-        "City_Country": "Milan, Italy",
-        "Deadline": "15/19 May 2024",
-        "Date": "9-11 September 2024",
-        "Notification": "26 June 2024",
-        "Submission": "LNCS, 15 pages regular, 8 pages short, both excluding references; co-located with FM and PPDP"
-    },
-    {
-        "name": "",
-        "link": "https://ppdp2024.github.io/",
-        "Conference": "PPDP\n ",
-        "City_Country": "Milan, Italy",
-        "Deadline": "15/22 May 2024",
-        "Date": "9-11 September 2024",
-        "Notification": "3 July 2024",
-        "Submission": "ACM, 2 column, 12 pages excluding references regular, 10 pages system descriptions,\n5 pages including references experience reports; co-located with FM and LOPSTR"
-    },
-    {
-        "name": "",
-        "link": "https://2024.splashcon.org/home/sas-2024",
-        "Conference": "SAS",
-        "City_Country": "Pasadena, California, USA",
-        "Deadline": "19 May 2024",
-        "Date": "20-22 October 2024",
-        "Notification": "16 July 2024",
-        "Submission": "double-blind, no page limit; part of SPLASH"
-    },
-    {
-        "name": "",
-        "link": "https://dsaa2024.dsaa.co/",
-        "Conference": "DSAA",
-        "City_Country": "San Diego, California, USA",
-        "Deadline": "20 May 2024",
-        "Date": "6-10 October 2024",
-        "Notification": "24 July 2024",
-        "Submission": "IEEE, 2 columns, 10 pages"
-    },
-    {
-        "name": "",
         "link": "https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/",
         "Conference": "SAGT",
         "City_Country": "Amsterdam, The Netherlands",
-        "Deadline": "21 May 2024",
+        "Deadline": "22/26 May 2024",
         "Date": "3-6 September 2024",
         "Notification": "5 July 2024",
         "Submission": "LNCS, 18 pages excluding references"
-    },
-    {
-        "name": "",
-        "link": "https://lod2024.icas.events/",
-        "Conference": "LOD",
-        "City_Country": "Castiglione della Pescaia, Italy",
-        "Deadline": "23 May 2024",
-        "Date": "22-25 September 2024",
-        "Notification": "23 June 2024",
-        "Submission": "LNCS, 15 pages long, 11 pages short"
     },
     {
         "name": "",
@@ -78,16 +18,6 @@
         "Date": "9-10 September 2024",
         "Notification": "3 July 2024",
         "Submission": "LNCS, 16 pages full, 6 pages short, 16 pages special tract, all excluding references; co-located with FM"
-    },
-    {
-        "name": "",
-        "link": "https://conf.researchr.org/home/aplas-2024",
-        "Conference": "APLAS",
-        "City_Country": "Kyoto, Japan",
-        "Deadline": "24 May 2024",
-        "Date": "22-25 October 2024",
-        "Notification": "2 August 2024",
-        "Submission": "LNCS, 17 pages excluding references"
     },
     {
         "name": "",
@@ -111,13 +41,33 @@
     },
     {
         "name": "",
+        "link": "http://www.pragmaticsofsat.org/2024/",
+        "Conference": "PoS\n \n ",
+        "City_Country": "Pune, India",
+        "Deadline": "27 May 2024\n5 June 2024",
+        "Date": "20 August 2024",
+        "Notification": "23 June 2023",
+        "Submission": "CEURART, 1 column, 15 pages long, 8 pages short, both excluding references,\n8 pages competition solver description;\n1st deadline for SAT fast track, 2nd deadline for competition solver descriptions; satellite event of SAT"
+    },
+    {
+        "name": "",
         "link": "https://easychair.org/smart-program/RP24/",
         "Conference": "RP",
         "City_Country": "Vienna, Austria",
         "Deadline": "27/30 May 2024",
         "Date": "25-27 September 2024",
         "Notification": "11 July 2024",
-        "Submission": "LNCS, 12 pages"
+        "Submission": "LNCS, 12 pages excluding references"
+    },
+    {
+        "name": "",
+        "link": "https://conf.researchr.org/home/aplas-2024",
+        "Conference": "APLAS",
+        "City_Country": "Kyoto, Japan",
+        "Deadline": "31 May 2024",
+        "Date": "22-25 October 2024",
+        "Notification": "2 August 2024",
+        "Submission": "LNCS, 17 pages excluding references"
     },
     {
         "name": "",
@@ -248,6 +198,16 @@
         "Date": "9-13 September 2024",
         "Notification": "15 July 2024",
         "Submission": "LNCS, 16 pages regular, 6 pages short"
+    },
+    {
+        "name": "",
+        "link": "https://lap.math.hr/LAP2024/",
+        "Conference": "LAP",
+        "City_Country": "Dubrovnik, Croatia",
+        "Deadline": "15 June 2024",
+        "Date": "23-27 September 2024",
+        "Notification": "1 July 2024",
+        "Submission": "own format"
     },
     {
         "name": "",
@@ -421,6 +381,16 @@
     },
     {
         "name": "",
+        "link": "https://www.siam.org/conferences/cm/conference/alenex25",
+        "Conference": "ALENEX",
+        "City_Country": "New Orleans, Lousiana, USA",
+        "Deadline": "18 July 2024",
+        "Date": "12-13 January 2025",
+        "Notification": "31 Ausust 2024",
+        "Submission": "SIAM, double-blind, 10 pages excluding front matter and references; co-located with SODA"
+    },
+    {
+        "name": "",
         "link": "https://csl2025.github.io/",
         "Conference": "CSL",
         "City_Country": "Amsterdam, The Netherlands",
@@ -458,6 +428,16 @@
         "Date": "",
         "Notification": "",
         "Submission": ""
+    },
+    {
+        "name": "",
+        "link": "https://www.siam.org/conferences/cm/conference/sosa25",
+        "Conference": "SOSA",
+        "City_Country": "New Orleans, Lousiana, USA",
+        "Deadline": "5/8 August 2024",
+        "Date": "13-14 January 2025",
+        "Notification": "October 2024",
+        "Submission": "double-blind, no page limit; co-located with SODA"
     },
     {
         "name": "",
