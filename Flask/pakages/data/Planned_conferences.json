@@ -11,36 +11,6 @@
     },
     {
         "name": "",
-        "link": "https://2024.splashcon.org/",
-        "Conference": "SPLASH",
-        "Year": "2024",
-        "City_Country": "Pasadena, California, USA",
-        "Starting_date": "20 October 2024",
-        "Ending_date": "25 October 2024",
-        "Remark": "co-located with SAS"
-    },
-    {
-        "name": "",
-        "link": "https://www.siam.org/conferences/cm/conference/alenex25",
-        "Conference": "ALENEX",
-        "Year": "2025",
-        "City_Country": "New Orleans, Lousiana, USA",
-        "Starting_date": "12 January 2025",
-        "Ending_date": "13 January 2025",
-        "Remark": "call posted in June 2024; co-located with SODA"
-    },
-    {
-        "name": "",
-        "link": "https://www.siam.org/conferences/cm/conference/sosa25",
-        "Conference": "SOSA",
-        "Year": "2025",
-        "City_Country": "New Orleans, Lousiana, USA",
-        "Starting_date": "13 January 2025",
-        "Ending_date": "14 January 2025",
-        "Remark": "call posted in June 2024; co-located with SODA"
-    },
-    {
-        "name": "",
         "link": "https://www.sofsem.cz/",
         "Conference": "SOFSEM",
         "Year": "2025",

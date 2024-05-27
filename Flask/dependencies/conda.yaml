@@ -1,0 +1,12 @@
+name: cnpm-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.14
+  - numpy=1.21.2
+  - pip=23.3.1
+  - pip:
+    - tqdm>=4.59,<4.60
+    - matplotlib
+    - numpy
+   
