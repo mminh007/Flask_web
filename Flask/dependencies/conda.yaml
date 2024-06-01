@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3.10.14
   - numpy=1.21.2
+  - ipykernel=6.29.3
   - pip=23.3.1
   - pip:
     - tqdm>=4.59,<4.60
