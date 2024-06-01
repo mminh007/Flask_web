@@ -48,8 +48,8 @@ def planned_list():
 
 @app.route("/detect")
 def DetrDetection():
-    image_path = request.args.get("url")
-    show_image = utils.DetrDetection(image_path)
+    path = request.args.get("url")
+    show_image = utils.Image_collector(path)
     return render_template("detection.html",
                            show_img = show_image)
     

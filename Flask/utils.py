@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
+import requests
 import json
 import os
 from pakages import app 
@@ -152,37 +153,57 @@ def get_data(url = "https://www.lix.polytechnique.fr/~hermann/conf.php#"):
         with open(os.path.join(path, "Planned_conferences.json"), "w") as f:
             f.write(json_ob)
 
-def DetrDetection(path):
-    if path == None:
+def Image_collector(url = "https://vnexpress.net/" ):
+    if url == None:
         return "nhap link"
     
     else:
+        driver = webdriver.Chrome()
+        driver.get(url)  
+        box = []
+        for i in range(0, 50):
+            try:
+                src = driver.find_element(By.XPATH, "//*[@id='automation_TV0']/article[" + str(i) + "]/div/a/picture/img").get_attribute("src")
+                box.append(src)
+            except NoSuchElementException:
+                pass
 
-        image = Image.open(path)
+        for i, link in enumerate(box):
+            try:
 
-        image_processor = AutoImageProcessor.from_pretrained("facebook/detr-resnet-50")
-        model = DetrForObjectDetection.from_pretrained("facebook/detr-resnet-50")
+                response = requests.get(link)
+            except NoSuchElementException:
+                pass
 
-        inputs = image_processor(images=image, return_tensors="pt")
-        outputs = model(**inputs)
+            with open(f"C://Users/tuanm/OneDrive/projects/Flask/images/image_{i}.jpg", "wb") as f:
+                f.write(response.content) 
+        driver.close()
+        # image = Image.open(path)
 
-        # convert outputs (bounding boxes and class logits) to Pascal VOC format (xmin, ymin, xmax, ymax)
-        target_sizes = torch.tensor([image.size[::-1]])
-        results = image_processor.post_process_object_detection(outputs, threshold=0.9, target_sizes=target_sizes)[0]
+        # image_processor = AutoImageProcessor.from_pretrained("facebook/detr-resnet-50")
+        # model = DetrForObjectDetection.from_pretrained("facebook/detr-resnet-50")
 
-        draw = ImageDraw.Draw(image)
-        for score, label, box in zip(results["scores"], results["labels"], results["boxes"]):
-            box = [round(i, 2) for i in box.tolist()]
-            x, y, x2, y2 = tuple(box)
-            draw.rectangle((x, y, x2, y2), outline="red", width=1)
-            draw.text((x, y), model.config.id2label[label.item()], fill="white")
+        # inputs = image_processor(images=image, return_tensors="pt")
+        # outputs = model(**inputs)
 
-        save_path = f"Flask/images/pred_{path}"
-        Image.save(save_path)
-        return show_image(save_path)
+        # # convert outputs (bounding boxes and class logits) to Pascal VOC format (xmin, ymin, xmax, ymax)
+        # target_sizes = torch.tensor([image.size[::-1]])
+        # results = image_processor.post_process_object_detection(outputs, threshold=0.9, target_sizes=target_sizes)[0]
 
-def show_image(path):
-    image_path = path
-    return image_path
+        # draw = ImageDraw.Draw(image)
+        # for score, label, box in zip(results["scores"], results["labels"], results["boxes"]):
+        #     box = [round(i, 2) for i in box.tolist()]
+        #     x, y, x2, y2 = tuple(box)
+        #     draw.rectangle((x, y, x2, y2), outline="red", width=1)
+        #     draw.text((x, y), model.config.id2label[label.item()], fill="white")
+
+        # save_path = f"Flask/images/pred_{path}"
+        # Image.save(save_path)
+        # return show_image(save_path)
+
+
+# def show_image(path):
+#     image_path = path
+#     return image_path
 # Object detection
 
